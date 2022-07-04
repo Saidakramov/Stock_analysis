@@ -95,7 +95,7 @@ Sub AllStocksAnalysis()
 End Sub
 
 
-## Refractored code
+## Refactored code
 Sub AllStocksAnalysisRefactored()
     Dim startTime As Single
     Dim endTime  As Single
